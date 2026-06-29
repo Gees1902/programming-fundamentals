@@ -1,7 +1,7 @@
 # programming-fundamentals
 Python programming
 
-Here's a professional GitHub **README.md** section that explains your project structure.
+This section explains the project structure.
 
 ---
 
@@ -64,5 +64,6 @@ This project demonstrates the following Python programming fundamentals:
 * Organizing a Python project using a clear file structure
 
 ---
+
 
 
